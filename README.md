@@ -38,6 +38,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam a justo eget elit a
 
 * [What have I learned from this project](#what-have-i-learned-from-this-project)
 
+<br />
+
 # Instalation
 - Download files by **git clone _repository-name_**
 - Use **npm i**
