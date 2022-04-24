@@ -58,7 +58,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam a justo eget elit a
 
 <br />
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/77500425/164990271-f9b7f1de-b122-4263-a8a4-bd3e79772fff.png"/><p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/77500425/164990774-eb31b66c-6166-46f5-ada9-3c0875dce883.png"/><p>
 
 <br />
 
