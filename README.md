@@ -16,7 +16,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam a justo eget elit a
 </div>
 
 ## Table of contents
-* [Instalation step by steps](#instalation)
+* [Instalation](#instalation step by steps)
 
 
 ## Instalation step by steps
