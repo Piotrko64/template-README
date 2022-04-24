@@ -27,6 +27,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam a justo eget elit a
 
 * [Inspiration](#inspiration)
 
+* [Major Updates](#Updates)
+
 
 # Instalation
 - Download files by **git clone _repository-name_**
@@ -48,6 +50,19 @@ In this section you can writing about project. For example about its destiny or 
 # Inspiration
 
 My inspiration to create this project was [this README](https://github.com/Piotrko64/react-sound-architecture/edit/master/README.md)
+
+# Updates
+
+**v1.0.3** 05/05/2022
+
+> -   **Super function** is ready!'
+
+
+**v1.0.1** 04/04/2022
+
+> -   Add *Formik* liblary
+> -   Writing example updates
+
 
 
 
