@@ -45,7 +45,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam a justo eget elit a
 
 In this section you can writing about project. For example about its destiny or how it works. You can also put screenshots like I am now.
 
-#Inspiration
+# Inspiration
 
 My inspiration to create this project was [this README](https://github.com/Piotrko64/react-sound-architecture/edit/master/README.md)
 
