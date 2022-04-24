@@ -1,6 +1,7 @@
 # <p align="center">[template-README](https://github.com/Piotrko64/template-README)</p>
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/77500425/164990000-a7feed69-e93a-4c46-ac48-c7383d161eeb.png" title="logo" alt="logo"/></p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/77500425/164990221-e29646af-08bd-4f67-81ce-8cccb4bfad86.png" title="logo" alt="logo"/></p>
+
 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam a justo eget elit aliquam aliquet. Nullam dictum mauris libero, in finibus leo suscipit at. Etiam bibendum ex ac imperdiet accumsan. In at neque vitae odio vehicula pulvinar sed nec velit. Donec pulvinar semper libero non cursus. Vivamus imperdiet lorem enim, a euismod mauris facilisis eu. Nulla sapien ante, laoreet eget diam id, dapibus pharetra nibh. Quisque bibendum justo elit, sed sagittis nisl mattis quis.
@@ -44,7 +45,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam a justo eget elit a
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam a justo eget elit aliquam aliquet. Nullam dictum mauris libero, in finibus leo suscipit at. Etiam bibendum ex ac imperdiet accumsan. In at neque vitae odio vehicula pulvinar sed nec velit. Donec pulvinar semper libero non cursus. Vivamus imperdiet lorem enim, a euismod mauris facilisis eu. Nulla sapien ante, laoreet eget diam id, dapibus pharetra nibh. Quisque bibendum justo elit, sed sagittis nisl mattis quis.
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/77500425/164990152-8059fa3b-f80b-4f1d-b2fa-b311c19325e9.png"/><p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/77500425/164990236-7f18537a-bc41-436c-b73f-2d03389f1afc.png"/><p>
 
 
 In this section you can writing about project. For example about its destiny or how it works. You can also put screenshots like I am now.
@@ -53,7 +54,8 @@ In this section you can writing about project. For example about its destiny or 
 
 My inspiration to create this project was [this README](https://github.com/Piotrko64/react-sound-architecture/edit/master/README.md)
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/77500425/164989947-74406822-7f3c-483f-ad9c-569d21ffb230.png"/> </p>
+
+
 
 # Updates
 
