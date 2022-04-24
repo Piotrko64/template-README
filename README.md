@@ -28,9 +28,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam a justo eget elit a
 <br />
 
 # Table of contents
-👉 [Instalation](#instalation)
+* [Instalation](#instalation)
 
-👉 [About project](#about)
+* [About project](#about)
 
 * [Inspiration](#inspiration)
 
