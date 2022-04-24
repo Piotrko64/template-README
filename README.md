@@ -46,6 +46,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam a justo eget elit a
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/77500425/164989243-74dfb41f-df03-4170-a7b3-a70f04a7b053.png"/><p>
 
+![template README](https://user-images.githubusercontent.com/77500425/164990000-a7feed69-e93a-4c46-ac48-c7383d161eeb.png)
+
 In this section you can writing about project. For example about its destiny or how it works. You can also put screenshots like I am now.
 
 # Inspiration
