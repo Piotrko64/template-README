@@ -52,6 +52,8 @@ In this section you can writing about project. For example about its destiny or 
 
 My inspiration to create this project was [this README](https://github.com/Piotrko64/react-sound-architecture/edit/master/README.md)
 
+<p align="center"> <img src="https://user-images.githubusercontent.com/77500425/164989947-74406822-7f3c-483f-ad9c-569d21ffb230.png"/> </p>
+
 # Updates
 
 ### **v1.0.3** 05/05/2022
