@@ -24,9 +24,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam a justo eget elit a
 - Use **npm i**
 - Use **npm start**
 
-### you need to complete the .env file with the following variables:
-- MONGODB: "your_connection_string"
-- API_KEY: "paths_to_API"
+### You need to complete the **.env** file with the following variables:
+- **MONGODB**: "your_connection_string"
+- **API_KEY**: "paths_to_API"
 
 
 
