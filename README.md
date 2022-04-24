@@ -44,10 +44,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam a justo eget elit a
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam a justo eget elit aliquam aliquet. Nullam dictum mauris libero, in finibus leo suscipit at. Etiam bibendum ex ac imperdiet accumsan. In at neque vitae odio vehicula pulvinar sed nec velit. Donec pulvinar semper libero non cursus. Vivamus imperdiet lorem enim, a euismod mauris facilisis eu. Nulla sapien ante, laoreet eget diam id, dapibus pharetra nibh. Quisque bibendum justo elit, sed sagittis nisl mattis quis.
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/77500425/164990099-28bbc100-d823-4ccb-898c-7edd0f0e447b.png"/><p>
-
-![Group 2](https://user-images.githubusercontent.com/77500425/164990152-8059fa3b-f80b-4f1d-b2fa-b311c19325e9.png)
-
+<p align="center"> <img src="https://user-images.githubusercontent.com/77500425/164990152-8059fa3b-f80b-4f1d-b2fa-b311c19325e9.png"/><p>
 
 
 In this section you can writing about project. For example about its destiny or how it works. You can also put screenshots like I am now.
