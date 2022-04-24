@@ -1,7 +1,10 @@
 # <p align="center">[template-README](https://github.com/Piotrko64/template-README)</p>
 
+<br />
+
 <p align="center"> <img src="https://user-images.githubusercontent.com/77500425/164990221-e29646af-08bd-4f67-81ce-8cccb4bfad86.png" title="logo" alt="logo"/></p>
 
+<br />
 
 <p align="center">This is sample documentation using README. Here you can put a short general text about our application.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam a justo eget elit aliquam aliquet. Nullam dictum mauris libero, in finibus leo suscipit at. </p>
@@ -40,9 +43,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam a justo eget elit a
 - Use **npm i**
 - Use **npm start**
 
+
+
 ### You need to complete the **.env** file with the following variables:
 - **MONGODB**: "your_connection_string"
 - **API_KEY**: "paths_to_API"
+
+<br />
 
 # About 
 
@@ -60,8 +67,7 @@ In this section you can writing about project. For example about its destiny or 
 
 My inspiration to create this project was [this README](https://github.com/Piotrko64/react-sound-architecture/edit/master/README.md)
 
-
-
+<br />
 
 # Updates
 
@@ -74,6 +80,8 @@ My inspiration to create this project was [this README](https://github.com/Piotr
 
 > -   Add *Formik* liblary
 > -   Writing example updates
+
+<br />
 
 # What have I learned from this project?
 
