@@ -53,12 +53,12 @@ My inspiration to create this project was [this README](https://github.com/Piotr
 
 # Updates
 
-**v1.0.3** 05/05/2022
+### **v1.0.3** 05/05/2022
 
 > -   **Super function** is ready!'
 
 
-**v1.0.1** 04/04/2022
+### **v1.0.1** 04/04/2022
 
 > -   Add *Formik* liblary
 > -   Writing example updates
