@@ -1,6 +1,6 @@
 # <p align="center">[template-README](https://github.com/Piotrko64/template-README)</p>
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/77500425/164988067-79c64fc8-512a-4e45-a48e-355ade2a6d51.png" title="logo" alt="logo"/></p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/77500425/164990000-a7feed69-e93a-4c46-ac48-c7383d161eeb.png" title="logo" alt="logo"/></p>
 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam a justo eget elit aliquam aliquet. Nullam dictum mauris libero, in finibus leo suscipit at. Etiam bibendum ex ac imperdiet accumsan. In at neque vitae odio vehicula pulvinar sed nec velit. Donec pulvinar semper libero non cursus. Vivamus imperdiet lorem enim, a euismod mauris facilisis eu. Nulla sapien ante, laoreet eget diam id, dapibus pharetra nibh. Quisque bibendum justo elit, sed sagittis nisl mattis quis.
@@ -44,9 +44,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam a justo eget elit a
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam a justo eget elit aliquam aliquet. Nullam dictum mauris libero, in finibus leo suscipit at. Etiam bibendum ex ac imperdiet accumsan. In at neque vitae odio vehicula pulvinar sed nec velit. Donec pulvinar semper libero non cursus. Vivamus imperdiet lorem enim, a euismod mauris facilisis eu. Nulla sapien ante, laoreet eget diam id, dapibus pharetra nibh. Quisque bibendum justo elit, sed sagittis nisl mattis quis.
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/77500425/164989243-74dfb41f-df03-4170-a7b3-a70f04a7b053.png"/><p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/77500425/164990099-28bbc100-d823-4ccb-898c-7edd0f0e447b.png"/><p>
 
-![template README](https://user-images.githubusercontent.com/77500425/164990000-a7feed69-e93a-4c46-ac48-c7383d161eeb.png)
+
+
 
 In this section you can writing about project. For example about its destiny or how it works. You can also put screenshots like I am now.
 
