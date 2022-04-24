@@ -20,13 +20,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam a justo eget elit a
 
 </div>
 
-## Table of contents
+# Table of contents
 * [Instalation](#instalation)
 
 * [About project](#about)
 
 
-## Instalation
+# Instalation
 - Download files by **git clone _repository-name_**
 - Use **npm i**
 - Use **npm start**
@@ -35,8 +35,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam a justo eget elit a
 - **MONGODB**: "your_connection_string"
 - **API_KEY**: "paths_to_API"
 
-## About 
+# About 
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam a justo eget elit aliquam aliquet. Nullam dictum mauris libero, in finibus leo suscipit at. Etiam bibendum ex ac imperdiet accumsan. In at neque vitae odio vehicula pulvinar sed nec velit. Donec pulvinar semper libero non cursus. Vivamus imperdiet lorem enim, a euismod mauris facilisis eu. Nulla sapien ante, laoreet eget diam id, dapibus pharetra nibh. Quisque bibendum justo elit, sed sagittis nisl mattis quis.
+
+![Group 1](https://user-images.githubusercontent.com/77500425/164989243-74dfb41f-df03-4170-a7b3-a70f04a7b053.png)
+
+In this section you can writing about project. For example about its destiny or how it works. You can also put screenshots like I am now.
 
 
 
