@@ -6,7 +6,7 @@
 <p align="center">This is sample documentation using README. Here you can put a short general text about our application.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam a justo eget elit aliquam aliquet. Nullam dictum mauris libero, in finibus leo suscipit at. </p>
 
-
+<br />
 
 <div align="center">
 
@@ -21,6 +21,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam a justo eget elit a
 <img src="https://user-images.githubusercontent.com/77500425/161312763-dd21dc88-2b1a-4a66-896b-8ce02e0c6a8c.png" alt="Node"  height="50" align="center"/>
 
 </div>
+
+<br />
 
 # Table of contents
 * [Instalation](#instalation)
