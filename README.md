@@ -46,6 +46,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam a justo eget elit a
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/77500425/164990099-28bbc100-d823-4ccb-898c-7edd0f0e447b.png"/><p>
 
+![Group 2](https://user-images.githubusercontent.com/77500425/164990152-8059fa3b-f80b-4f1d-b2fa-b311c19325e9.png)
 
 
 
