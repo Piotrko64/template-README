@@ -29,6 +29,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam a justo eget elit a
 
 * [Major Updates](#Updates)
 
+* [What have I learned from this project?](#What-have-I-learned-from-this-project?)
 
 # Instalation
 - Download files by **git clone _repository-name_**
@@ -63,6 +64,10 @@ My inspiration to create this project was [this README](https://github.com/Piotr
 > -   Add *Formik* liblary
 > -   Writing example updates
 
+# What have I learned from this project?
+
+> - How to create interesting README files
+> - Present projects well
 
 
 
