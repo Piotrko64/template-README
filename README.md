@@ -35,7 +35,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam a justo eget elit a
 - **MONGODB**: "your_connection_string"
 - **API_KEY**: "paths_to_API"
 
-## About project
+## About 
 
 
 
